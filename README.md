@@ -24,4 +24,5 @@ pip install django
 python3 main.py runserver
 ```
 Now, open http://127.0.0.1:8000/ in your browser. 🚀
+
 (it should get redirected to http:/127.0.0.1:8000/resume/ )
