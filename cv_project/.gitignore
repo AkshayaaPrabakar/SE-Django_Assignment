@@ -1,0 +1,24 @@
+# Virtual environment
+venv/
+__pycache__/
+
+# Database
+*.sqlite3
+
+# Django secrets
+*.log
+.env
+
+# Compiled Python files
+*.pyc
+*.pyo
+*.pyd
+
+# Static files
+staticfiles/
+media/
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
