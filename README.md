@@ -1,14 +1,11 @@
-# SE-Django-CV
-
 # 📝 Django_Resume
 
 A simple Django-based web application to display my resume
  
-
 ### 1️⃣ Clone the Repository  
 ```bash
 git clone https://github.com/AkshayaaPrabakar/SE-Django-CV.git
-cd Resume_django
+cd SE-Django-CV
 ```
 ### 2️⃣ Create and Activate a Virtual Environment
 ```bash
@@ -20,7 +17,7 @@ source venv/bin/activate
 ```
 ### 3️⃣ Install Django
 ```bash
-python3 -m pip install django
+pip install django
 ```
 ### 4️⃣ Run the Project
 ```bash
