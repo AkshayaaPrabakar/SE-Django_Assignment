@@ -1,27 +1,21 @@
-SE-Django-CV
-📝 Django CV Generator
-A simple Django-based web application to convert CVs to HTML using the Django template.
+# SE-Django-CV
 
-1️⃣ Clone the Repository
-Clone the repository to your local machine:
+# 📝 Django CV Generator
 
-bash
-Copy
-Edit
+A simple Django-based web application to convert CV to HTML using Django template
+
+---
+
+### 1️⃣ Clone the Repository  
+```bash
 git clone https://github.com/yourusername/django-cv.git
 cd django-cv
+
 2️⃣ Install Django
-Install Django using pip:
-
-bash
-Copy
-Edit
+```bash
 pip install django
-3️⃣ Run the Project
-Start the Django development server:
 
-bash
-Copy
-Edit
+3️⃣ Run the Project
+```bash
 python main.py runserver
-Now, open http://127.0.0.1:8000/ in your browser.
+Now, open http://127.0.0.1:8000/ in your browser. 
