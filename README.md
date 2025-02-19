@@ -21,7 +21,7 @@ source venv/bin/activate
 ### 3️⃣ Install Django
 ```bash
 python3 -m pip install django
-
+```
 ### 4️⃣ Run the Project
 ```bash
 python3 main.py runserver
