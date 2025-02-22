@@ -10,7 +10,7 @@ cd SE-Django-CV
 ### 2️⃣ Create and Activate a Virtual Environment
 ```bash
 # Create a virtual environment named 'venv'
-python3 -m venv venv
+python -m venv venv
 
 # Activate the virtual environment
 source venv/bin/activate
