@@ -21,7 +21,7 @@ pip install django
 ```
 ### 4️⃣ Run the Project
 ```bash
-python3 main.py runserver
+python main.py runserver
 ```
 Now, open http://127.0.0.1:8000/ in your browser. 🚀
 
