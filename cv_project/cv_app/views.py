@@ -4,8 +4,8 @@ def resume_view(request):
     resume_data = {
         'name': 'Akshayaa Prabakar',
         'location': 'New York, USA',
-        'phone': '+1 929 930 7244',
-        'email': 'ap9013@nyu.edu',
+        'phone': '+1 1234567890',
+        'email': '123@gmail.com',
         'linkedin': 'https://www.linkedin.com/in/akshayaa-prabakar-7b1979282/',
         'education': [
             {'degree': 'M.S. in Computer Science', 'school': 'New York University', 'years': '2024 - 2026'},
